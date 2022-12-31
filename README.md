@@ -1,4 +1,4 @@
-# CS F351 Theory of Computation Assignment 
+# CS F351 Theory of Computation Assignment-1
 
 ## Build Instructions
 1. Open a terminal.
